@@ -2,7 +2,7 @@
 
 This is a source code of the following paper:
 
-Jacob Imola, Takao Murakami, Kamalika Chaudhuri, "Differentially Private Subgraph Counting in the Shuffle Model," Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022), pp.537-554, 2022.
+Jacob Imola, Takao Murakami, Kamalika Chaudhuri, "Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model," Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS 2022), 2022. (to appear)
 
 Full paper: https://arxiv.org/abs/2205.01429
 
